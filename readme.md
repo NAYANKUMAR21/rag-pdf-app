@@ -1,4 +1,4 @@
-# RAG Application
+# Chat with Your PDFs - Turn Any Document into a Conversation
 
 ## Overview
 
