@@ -90,8 +90,8 @@ root/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/NAYANKUMAR21/PDF-RAG-APP.git
-   cd PDF-RAG-APP
+   git clone https://github.com/NAYANKUMAR21/rag-pdf-app.git
+   cd rag-pdf-app
    ```
 
 2. **Configure environment variables**
